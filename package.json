@@ -1,6 +1,6 @@
 {
   "name": "blear.polyfills.json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "json polyfills to IE8",
   "scripts": {},
   "preferGlobal": false,
